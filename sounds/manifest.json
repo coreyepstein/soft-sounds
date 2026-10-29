@@ -1,0 +1,635 @@
+[
+ {
+  "name": "deal-1",
+  "group": "deal",
+  "category": "cards",
+  "file": "cards/deal-1.mp3",
+  "ms": 348
+ },
+ {
+  "name": "deal-2",
+  "group": "deal",
+  "category": "cards",
+  "file": "cards/deal-2.mp3",
+  "ms": 388
+ },
+ {
+  "name": "deal-3",
+  "group": "deal",
+  "category": "cards",
+  "file": "cards/deal-3.mp3",
+  "ms": 338
+ },
+ {
+  "name": "deal-4",
+  "group": "deal",
+  "category": "cards",
+  "file": "cards/deal-4.mp3",
+  "ms": 368
+ },
+ {
+  "name": "dismiss-1",
+  "group": "dismiss",
+  "category": "cards",
+  "file": "cards/dismiss-1.mp3",
+  "ms": 608
+ },
+ {
+  "name": "dismiss-2",
+  "group": "dismiss",
+  "category": "cards",
+  "file": "cards/dismiss-2.mp3",
+  "ms": 419
+ },
+ {
+  "name": "dismiss-3",
+  "group": "dismiss",
+  "category": "cards",
+  "file": "cards/dismiss-3.mp3",
+  "ms": 818
+ },
+ {
+  "name": "dismiss-4",
+  "group": "dismiss",
+  "category": "cards",
+  "file": "cards/dismiss-4.mp3",
+  "ms": 419
+ },
+ {
+  "name": "flip-1",
+  "group": "flip",
+  "category": "cards",
+  "file": "cards/flip-1.mp3",
+  "ms": 468
+ },
+ {
+  "name": "flip-2",
+  "group": "flip",
+  "category": "cards",
+  "file": "cards/flip-2.mp3",
+  "ms": 198
+ },
+ {
+  "name": "flip-3",
+  "group": "flip",
+  "category": "cards",
+  "file": "cards/flip-3.mp3",
+  "ms": 508
+ },
+ {
+  "name": "flip-4",
+  "group": "flip",
+  "category": "cards",
+  "file": "cards/flip-4.mp3",
+  "ms": 208
+ },
+ {
+  "name": "hover-1",
+  "group": "hover",
+  "category": "cards",
+  "file": "cards/hover-1.mp3",
+  "ms": 338
+ },
+ {
+  "name": "hover-2",
+  "group": "hover",
+  "category": "cards",
+  "file": "cards/hover-2.mp3",
+  "ms": 328
+ },
+ {
+  "name": "hover-3",
+  "group": "hover",
+  "category": "cards",
+  "file": "cards/hover-3.mp3",
+  "ms": 338
+ },
+ {
+  "name": "hover-4",
+  "group": "hover",
+  "category": "cards",
+  "file": "cards/hover-4.mp3",
+  "ms": 288
+ },
+ {
+  "name": "intro-1",
+  "group": "intro",
+  "category": "cards",
+  "file": "cards/intro-1.mp3",
+  "ms": 3858
+ },
+ {
+  "name": "intro-2",
+  "group": "intro",
+  "category": "cards",
+  "file": "cards/intro-2.mp3",
+  "ms": 2488
+ },
+ {
+  "name": "intro-3",
+  "group": "intro",
+  "category": "cards",
+  "file": "cards/intro-3.mp3",
+  "ms": 2608
+ },
+ {
+  "name": "intro-4",
+  "group": "intro",
+  "category": "cards",
+  "file": "cards/intro-4.mp3",
+  "ms": 2688
+ },
+ {
+  "name": "land-1",
+  "group": "land",
+  "category": "cards",
+  "file": "cards/land-1.mp3",
+  "ms": 498
+ },
+ {
+  "name": "land-2",
+  "group": "land",
+  "category": "cards",
+  "file": "cards/land-2.mp3",
+  "ms": 398
+ },
+ {
+  "name": "land-3",
+  "group": "land",
+  "category": "cards",
+  "file": "cards/land-3.mp3",
+  "ms": 528
+ },
+ {
+  "name": "land-4",
+  "group": "land",
+  "category": "cards",
+  "file": "cards/land-4.mp3",
+  "ms": 508
+ },
+ {
+  "name": "drone-air-loop",
+  "group": "drone-air",
+  "category": "drones",
+  "file": "drones/drone-air-loop.mp3",
+  "ms": 16000,
+  "loop": true
+ },
+ {
+  "name": "drone-deep-loop",
+  "group": "drone-deep",
+  "category": "drones",
+  "file": "drones/drone-deep-loop.mp3",
+  "ms": 16000,
+  "loop": true
+ },
+ {
+  "name": "drone-warm-loop",
+  "group": "drone-warm",
+  "category": "drones",
+  "file": "drones/drone-warm-loop.mp3",
+  "ms": 16000,
+  "loop": true
+ },
+ {
+  "name": "cork-1",
+  "group": "cork",
+  "category": "foley",
+  "file": "foley/cork-1.mp3",
+  "ms": 648
+ },
+ {
+  "name": "cork-2",
+  "group": "cork",
+  "category": "foley",
+  "file": "foley/cork-2.mp3",
+  "ms": 625
+ },
+ {
+  "name": "cork-3",
+  "group": "cork",
+  "category": "foley",
+  "file": "foley/cork-3.mp3",
+  "ms": 753
+ },
+ {
+  "name": "cork-4",
+  "group": "cork",
+  "category": "foley",
+  "file": "foley/cork-4.mp3",
+  "ms": 405
+ },
+ {
+  "name": "drop-1",
+  "group": "drop",
+  "category": "foley",
+  "file": "foley/drop-1.mp3",
+  "ms": 254
+ },
+ {
+  "name": "drop-2",
+  "group": "drop",
+  "category": "foley",
+  "file": "foley/drop-2.mp3",
+  "ms": 265
+ },
+ {
+  "name": "drop-3",
+  "group": "drop",
+  "category": "foley",
+  "file": "foley/drop-3.mp3",
+  "ms": 254
+ },
+ {
+  "name": "keys-1",
+  "group": "keys",
+  "category": "foley",
+  "file": "foley/keys-1.mp3",
+  "ms": 161
+ },
+ {
+  "name": "keys-2",
+  "group": "keys",
+  "category": "foley",
+  "file": "foley/keys-2.mp3",
+  "ms": 138
+ },
+ {
+  "name": "keys-3",
+  "group": "keys",
+  "category": "foley",
+  "file": "foley/keys-3.mp3",
+  "ms": 161
+ },
+ {
+  "name": "keys-4",
+  "group": "keys",
+  "category": "foley",
+  "file": "foley/keys-4.mp3",
+  "ms": 161
+ },
+ {
+  "name": "marble-1",
+  "group": "marble",
+  "category": "foley",
+  "file": "foley/marble-1.mp3",
+  "ms": 683
+ },
+ {
+  "name": "marble-2",
+  "group": "marble",
+  "category": "foley",
+  "file": "foley/marble-2.mp3",
+  "ms": 370
+ },
+ {
+  "name": "marble-3",
+  "group": "marble",
+  "category": "foley",
+  "file": "foley/marble-3.mp3",
+  "ms": 776
+ },
+ {
+  "name": "marble-4",
+  "group": "marble",
+  "category": "foley",
+  "file": "foley/marble-4.mp3",
+  "ms": 741
+ },
+ {
+  "name": "paper-1",
+  "group": "paper",
+  "category": "foley",
+  "file": "foley/paper-1.mp3",
+  "ms": 498
+ },
+ {
+  "name": "paper-2",
+  "group": "paper",
+  "category": "foley",
+  "file": "foley/paper-2.mp3",
+  "ms": 567
+ },
+ {
+  "name": "paper-3",
+  "group": "paper",
+  "category": "foley",
+  "file": "foley/paper-3.mp3",
+  "ms": 544
+ },
+ {
+  "name": "paper-4",
+  "group": "paper",
+  "category": "foley",
+  "file": "foley/paper-4.mp3",
+  "ms": 660
+ },
+ {
+  "name": "pen-1",
+  "group": "pen",
+  "category": "foley",
+  "file": "foley/pen-1.mp3",
+  "ms": 207
+ },
+ {
+  "name": "pen-2",
+  "group": "pen",
+  "category": "foley",
+  "file": "foley/pen-2.mp3",
+  "ms": 416
+ },
+ {
+  "name": "pen-3",
+  "group": "pen",
+  "category": "foley",
+  "file": "foley/pen-3.mp3",
+  "ms": 172
+ },
+ {
+  "name": "pen-4",
+  "group": "pen",
+  "category": "foley",
+  "file": "foley/pen-4.mp3",
+  "ms": 358
+ },
+ {
+  "name": "pop-1",
+  "group": "pop",
+  "category": "foley",
+  "file": "foley/pop-1.mp3",
+  "ms": 114
+ },
+ {
+  "name": "pop-2",
+  "group": "pop",
+  "category": "foley",
+  "file": "foley/pop-2.mp3",
+  "ms": 126
+ },
+ {
+  "name": "pop-3",
+  "group": "pop",
+  "category": "foley",
+  "file": "foley/pop-3.mp3",
+  "ms": 126
+ },
+ {
+  "name": "pop-4",
+  "group": "pop",
+  "category": "foley",
+  "file": "foley/pop-4.mp3",
+  "ms": 114
+ },
+ {
+  "name": "stone-1",
+  "group": "stone",
+  "category": "foley",
+  "file": "foley/stone-1.mp3",
+  "ms": 126
+ },
+ {
+  "name": "stone-2",
+  "group": "stone",
+  "category": "foley",
+  "file": "foley/stone-2.mp3",
+  "ms": 126
+ },
+ {
+  "name": "stone-3",
+  "group": "stone",
+  "category": "foley",
+  "file": "foley/stone-3.mp3",
+  "ms": 114
+ },
+ {
+  "name": "stone-4",
+  "group": "stone",
+  "category": "foley",
+  "file": "foley/stone-4.mp3",
+  "ms": 126
+ },
+ {
+  "name": "switch-1",
+  "group": "switch",
+  "category": "foley",
+  "file": "foley/switch-1.mp3",
+  "ms": 254
+ },
+ {
+  "name": "switch-2",
+  "group": "switch",
+  "category": "foley",
+  "file": "foley/switch-2.mp3",
+  "ms": 126
+ },
+ {
+  "name": "switch-3",
+  "group": "switch",
+  "category": "foley",
+  "file": "foley/switch-3.mp3",
+  "ms": 126
+ },
+ {
+  "name": "switch-4",
+  "group": "switch",
+  "category": "foley",
+  "file": "foley/switch-4.mp3",
+  "ms": 126
+ },
+ {
+  "name": "tap-1",
+  "group": "tap",
+  "category": "foley",
+  "file": "foley/tap-1.mp3",
+  "ms": 184
+ },
+ {
+  "name": "tap-2",
+  "group": "tap",
+  "category": "foley",
+  "file": "foley/tap-2.mp3",
+  "ms": 207
+ },
+ {
+  "name": "tap-3",
+  "group": "tap",
+  "category": "foley",
+  "file": "foley/tap-3.mp3",
+  "ms": 184
+ },
+ {
+  "name": "tap-4",
+  "group": "tap",
+  "category": "foley",
+  "file": "foley/tap-4.mp3",
+  "ms": 207
+ },
+ {
+  "name": "whoosh-1",
+  "group": "whoosh",
+  "category": "foley",
+  "file": "foley/whoosh-1.mp3",
+  "ms": 567
+ },
+ {
+  "name": "whoosh-2",
+  "group": "whoosh",
+  "category": "foley",
+  "file": "foley/whoosh-2.mp3",
+  "ms": 997
+ },
+ {
+  "name": "whoosh-3",
+  "group": "whoosh",
+  "category": "foley",
+  "file": "foley/whoosh-3.mp3",
+  "ms": 393
+ },
+ {
+  "name": "whoosh-4",
+  "group": "whoosh",
+  "category": "foley",
+  "file": "foley/whoosh-4.mp3",
+  "ms": 567
+ },
+ {
+  "name": "error-1",
+  "group": "error",
+  "category": "ui",
+  "file": "ui/error-1.mp3",
+  "ms": 486
+ },
+ {
+  "name": "error-2",
+  "group": "error",
+  "category": "ui",
+  "file": "ui/error-2.mp3",
+  "ms": 648
+ },
+ {
+  "name": "error-3",
+  "group": "error",
+  "category": "ui",
+  "file": "ui/error-3.mp3",
+  "ms": 405
+ },
+ {
+  "name": "error-4",
+  "group": "error",
+  "category": "ui",
+  "file": "ui/error-4.mp3",
+  "ms": 405
+ },
+ {
+  "name": "message-1",
+  "group": "message",
+  "category": "ui",
+  "file": "ui/message-1.mp3",
+  "ms": 254
+ },
+ {
+  "name": "message-2",
+  "group": "message",
+  "category": "ui",
+  "file": "ui/message-2.mp3",
+  "ms": 265
+ },
+ {
+  "name": "message-3",
+  "group": "message",
+  "category": "ui",
+  "file": "ui/message-3.mp3",
+  "ms": 474
+ },
+ {
+  "name": "message-4",
+  "group": "message",
+  "category": "ui",
+  "file": "ui/message-4.mp3",
+  "ms": 207
+ },
+ {
+  "name": "notify-1",
+  "group": "notify",
+  "category": "ui",
+  "file": "ui/notify-1.mp3",
+  "ms": 579
+ },
+ {
+  "name": "notify-2",
+  "group": "notify",
+  "category": "ui",
+  "file": "ui/notify-2.mp3",
+  "ms": 637
+ },
+ {
+  "name": "notify-3",
+  "group": "notify",
+  "category": "ui",
+  "file": "ui/notify-3.mp3",
+  "ms": 590
+ },
+ {
+  "name": "notify-4",
+  "group": "notify",
+  "category": "ui",
+  "file": "ui/notify-4.mp3",
+  "ms": 556
+ },
+ {
+  "name": "sparkle-1",
+  "group": "sparkle",
+  "category": "ui",
+  "file": "ui/sparkle-1.mp3",
+  "ms": 138
+ },
+ {
+  "name": "sparkle-2",
+  "group": "sparkle",
+  "category": "ui",
+  "file": "ui/sparkle-2.mp3",
+  "ms": 289
+ },
+ {
+  "name": "sparkle-3",
+  "group": "sparkle",
+  "category": "ui",
+  "file": "ui/sparkle-3.mp3",
+  "ms": 138
+ },
+ {
+  "name": "sparkle-4",
+  "group": "sparkle",
+  "category": "ui",
+  "file": "ui/sparkle-4.mp3",
+  "ms": 138
+ },
+ {
+  "name": "success-1",
+  "group": "success",
+  "category": "ui",
+  "file": "ui/success-1.mp3",
+  "ms": 1717
+ },
+ {
+  "name": "success-2",
+  "group": "success",
+  "category": "ui",
+  "file": "ui/success-2.mp3",
+  "ms": 602
+ },
+ {
+  "name": "success-3",
+  "group": "success",
+  "category": "ui",
+  "file": "ui/success-3.mp3",
+  "ms": 1821
+ },
+ {
+  "name": "success-4",
+  "group": "success",
+  "category": "ui",
+  "file": "ui/success-4.mp3",
+  "ms": 1833
+ }
+]
